@@ -1,0 +1,27 @@
+[
+     {
+          "id" : 1,
+          "nombre" : "Sebastian",
+          "empresa" : "Neok",
+          "trabajo" : "Desarrollador Web"
+     },
+     {
+          "id" : 2,
+          "nombre" : "Gerardo",
+          "empresa" : "Neok",
+          "trabajo" : "Diseñador"
+     },
+     {
+          "id" : 3,
+          "nombre" : "Jair",
+          "empresa" : "Neok",
+          "trabajo" : "Aplicaciones Móviles"
+     },
+     {
+          "id" : 4,
+          "nombre" : "Luis Fernando",
+          "empresa" : "Neok",
+          "trabajo" : "Redes"
+     }
+
+]
