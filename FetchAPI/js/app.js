@@ -49,6 +49,7 @@ function cargarREST(){
                 <li>
                     <a target="_blank" href="${imagen.post_url}">Ver imagen</a>
                     ${imagen.author}
+                </li>
             `;
         });
         document.getElementById('resultado').innerHTML = html;
